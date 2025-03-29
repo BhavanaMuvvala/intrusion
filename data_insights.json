@@ -1,0 +1,1 @@
+{"attack_type_distribution": {"Phishing": 250, "U2R": 250, "Spoofing": 250, "R2L": 250, "Probe": 250, "DDoS": 250, "Normal": 250, "SQLi": 250, "DoS": 250, "MITM": 250}, "protocol_type_distribution": {"UDP": 1439, "ICMP": 536, "TCP": 525}}
